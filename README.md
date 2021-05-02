@@ -21,6 +21,8 @@ The number of # in front of these links represents how useful/good it is, some a
 
 ###https://github.com/jpegleg/change-watcher 🟦
 
+#https://github.com/jpegleg/five-daemon-mgmt 🟪
+
 
 ## 🖧 templates
 
@@ -51,6 +53,9 @@ The number of # in front of these links represents how useful/good it is, some a
 ####https://github.com/jpegleg/nginx-le-deploy 🟦
 
 ###https://github.com/jpegleg/fe-html-template 🟦
+
+#https://github.com/jpegleg/pipe2sec 🟪
+
 
 
 
@@ -126,4 +131,18 @@ The number of # in front of these links represents how useful/good it is, some a
 
 ##https://github.com/jpegleg/recurse-catalog 🟦
 
+###https://github.com/jpegleg/hist-event-reaction 🟦
 
+#https://github.com/jpegleg/revsec 🟦
+
+#https://github.com/jpegleg/rolling-saturn 🟦
+
+##https://github.com/jpegleg/timestamped-history-module 🟦
+
+#https://github.com/jpegleg/wheezy-workstation-module 🟦
+
+#https://github.com/jpegleg/forcematrix 🟪
+
+#https://github.com/jpegleg/mailfixer 🟪
+
+#https://github.com/jpegleg/sec-alarm 🟪
