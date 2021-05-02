@@ -19,7 +19,7 @@ The number of # in front of these links represents how useful/good it is, some a
 
 ####https://github.com/jpegleg/1-vm-enterprise
 
-###https://github.com/jpegleg/eaas-deployment-f/
+###https://github.com/jpegleg/eaas-deployment-f
 
 ####https://github.com/jpegleg/eaas-deployment-e
 
@@ -38,6 +38,13 @@ The number of # in front of these links represents how useful/good it is, some a
 ###https://github.com/jpegleg/debian_kernel_builder
 
 ###https://github.com/jpegleg/open-gslb_template
+
+##https://github.com/jpegleg/full-unit
+
+####https://github.com/jpegleg/nginx-le-deploy
+
+###https://github.com/jpegleg/fe-html-template
+
 
 
 ## ☯️ notes and scraps
@@ -59,6 +66,9 @@ The number of # in front of these links represents how useful/good it is, some a
 ##https://github.com/jpegleg/redis_compile
 
 ###https://github.com/jpegleg/ansible-reports
+
+###https://github.com/jpegleg/kali-live-flow
+
 
 
 ## 🏴‍☠️ tools
@@ -98,3 +108,9 @@ The number of # in front of these links represents how useful/good it is, some a
 ##https://github.com/jpegleg/time-sort-tar
 
 ###https://github.com/jpegleg/firewalld-autoban
+
+###https://github.com/jpegleg/hardening-module
+
+##https://github.com/jpegleg/recurse-catalog
+
+
