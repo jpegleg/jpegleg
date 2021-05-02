@@ -2,9 +2,9 @@ The number of # in front of these links represents how useful/good it is, some a
 
 🟦 - blue team / defend / making things
 
-🟥 - red team / malware / breaking things
+🟥 - red team / malware / breaking, bypassing, exfiltration, etc
 
-🟪 - purple team / neutral / both
+🟪 - purple team / neutral / both or either
 
 
 ## 🦂 prototypes  
