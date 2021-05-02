@@ -35,6 +35,8 @@
 
 ###https://github.com/jpegleg/debian_kernel_builder
 
+###https://github.com/jpegleg/open-gslb_template
+
 
 ## ☯️ notes and scraps
 
@@ -47,6 +49,14 @@
 ###https://github.com/jpegleg/tcp-bunny
 
 ###https://github.com/jpegleg/idealism-systems
+
+####https://github.com/jpegleg/zshrc
+
+###https://github.com/jpegleg/jpegleg-vimrc
+
+##https://github.com/jpegleg/redis_compile
+
+###https://github.com/jpegleg/ansible-reports
 
 
 ## 🏴‍☠️ tools
@@ -84,3 +94,5 @@
 #####https://github.com/jpegleg/crypt-baller
 
 ##https://github.com/jpegleg/time-sort-tar
+
+###https://github.com/jpegleg/firewalld-autoban
