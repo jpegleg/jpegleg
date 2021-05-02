@@ -1,1 +1,5 @@
-# jpegleg templates and prototypes, notes and tools 🦂 🖧 ☯️ 🏴‍☠️
+# https://github.com/jpegleg
+# 🦂 prototypes  
+# 🖧 templates
+# ☯️ notes
+# 🏴‍☠️ tools
