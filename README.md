@@ -36,7 +36,7 @@
 ###https://github.com/jpegleg/debian_kernel_builder
 
 
-## ☯️ notes
+## ☯️ notes and scraps
 
 #####https://github.com/jpegleg/metarc
 
