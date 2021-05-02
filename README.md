@@ -1,3 +1,5 @@
+The number of # in front of these links represents how useful/good it is, some arbitrary score.
+
 ## 🦂 prototypes  
 
 ####https://github.com/jpegleg/heaven-pki
