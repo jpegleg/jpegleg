@@ -4,7 +4,7 @@ The number of # in front of these links represents how useful/good it is, some a
 
 🟥 - red team / malware / breaking, bypassing, exfiltration, etc
 
-🟪 - purple team / data encryption and privacy / both or either
+🟪 - purple team / defense or offense capabilities / data encryption and privacy 
 
 
 ## 🦂 prototypes  
