@@ -28,6 +28,8 @@ The number of # in front of these links represents how useful/good it is, some a
 
 ## 🖧 templates
 
+#####https://github.com/jpegleg/salsa_falcon 🟪
+
 ####https://github.com/jpegleg/1-vm-enterprise 🟦
 
 ###https://github.com/jpegleg/eaas-deployment-f 🟦 
