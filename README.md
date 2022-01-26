@@ -106,6 +106,7 @@ The number of # in front of these links represents how useful/good it is, some a
 
 #https://github.com/jpegleg/plumbus-freezer 🟥
 
+####https://github.com/jpegleg/cloud-edge-deb 🟪
 
 
 ## 🏴‍☠️ tools
