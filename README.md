@@ -46,7 +46,7 @@ The number of # in front of these links represents how useful/good it is, some a
 
 ###https://github.com/jpegleg/eaas-deployment-h 🟦
 
-### 🟦
+###https://github.com/jpegleg/eaas-deployment-k 🟦
 
 ###https://github.com/jpegleg/gluster_cluster 🟦
 
