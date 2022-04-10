@@ -29,7 +29,7 @@ The number of # in front of these links represents how useful/good it is, some a
 
 ####https://github.com/jpegleg/signer-daemon 🟦
 
-####https://github.com/jpegleg/osprey_validator 🟦
+#####https://github.com/jpegleg/osprey_validator 🟦
 
 
 ## 🖧 templates
