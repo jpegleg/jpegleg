@@ -40,6 +40,8 @@ The number of # in front of these links represents how useful/good it is, some a
 
 ###https://github.com/jpegleg/yaml_dip 🟪
 
+####https://github.com/jpegleg/k3s-dragon-eggs 🟦
+
 ####https://github.com/jpegleg/1-vm-enterprise 🟦
 
 ###https://github.com/jpegleg/eaas-deployment-f 🟦 
