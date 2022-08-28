@@ -145,6 +145,8 @@ The number of # in front of these links represents how useful/good it is, some a
 
 ####https://github.com/jpegleg/wazuh-console-tools 🟦
 
+####https://github.com/jpegleg/protean-gitops 🟦
+
 #####https://github.com/jpegleg/snake_bounce 🟪
 
 ##https://github.com/jpegleg/ssh-key-hunter 🟪
