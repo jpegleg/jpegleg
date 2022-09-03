@@ -4,7 +4,7 @@ The number of # in front of these links represents how useful/good it is, some a
 
 🟥 - red team / malware / breaking, bypassing, exfiltration, etc
 
-🟪 - purple team / defense or offense capabilities / data encryption and privacy 
+🟪 - purple team / defense or offense capabilities / data encryption and privacy
 
 
 ## 🦂 prototypes  
@@ -138,6 +138,8 @@ The number of # in front of these links represents how useful/good it is, some a
 ####https://github.com/jpegleg/net-gargoyle2 🟦
 
 ####https://github.com/jpegleg/milk-thistle 🟦
+
+#####https://github.com/jpegleg/whistle-pig 🟪
 
 ####https://github.com/jpegleg/jpegleg-lib 🟪
 
