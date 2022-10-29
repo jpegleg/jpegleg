@@ -38,6 +38,8 @@ The number of # in front of these links represents how useful/good it is, some a
 
 #####https://github.com/jpegleg/morpho-web 🟦
 
+####https://github.com/jpegleg/squirrel-tactix 🟦
+
 ####https://github.com/jpegleg/morpho-sessions 🟦
 
 ###https://github.com/jpegleg/morpho-web2 🟦
