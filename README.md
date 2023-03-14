@@ -164,6 +164,8 @@ The number of # in front of these links represents how useful/good it is, some a
 
 #####https://github.com/jpegleg/volcanica-pki 🟦
 
+###https://github.com/jpegleg/archaeopteryx 🟦
+
 ####https://github.com/jpegleg/jpegleg-lib 🟪
 
 ####https://github.com/jpegleg/iterblock2 🟥
