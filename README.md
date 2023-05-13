@@ -172,6 +172,8 @@ The number of # in front of these links represents how useful/good it is, some a
 
 #####https://github.com/jpegleg/harmonia 🟥
 
+####https://github.com/jpegleg/woodchucker 🟥
+
 ###https://github.com/jpegleg/archaeopteryx 🟦
 
 ####https://github.com/jpegleg/jpegleg-lib 🟪
