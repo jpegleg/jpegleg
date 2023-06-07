@@ -141,6 +141,8 @@ The number of # in front of these links represents how useful/good it is, some a
 
 ####https://github.com/jpegleg/zshrc 🟦
 
+####https://github.com/jpegleg/Xresources 🟦
+
 ###https://github.com/jpegleg/jpegleg-vimrc 🟦
 
 ##https://github.com/jpegleg/redis_compile 🟦
