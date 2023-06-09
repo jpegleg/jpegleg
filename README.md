@@ -168,11 +168,13 @@ The number of # in front of these links represents how useful/good it is, some a
 
 ####https://github.com/jpegleg/milk-thistle 🟦
 
+####https://github.com/jpegleg/dwarven-toolbox 🟪
+
 #####https://github.com/jpegleg/volcanica-pki 🟦
 
 ####https://github.com/jpegleg/opal-dragon 🟪
 
-####https://github.com/jpegleg/nephronix 🟪
+###https://github.com/jpegleg/nephronix 🟪
 
 #####https://github.com/jpegleg/harmonia 🟥
 
