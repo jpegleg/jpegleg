@@ -33,12 +33,14 @@ The number of # in front of these links represents how useful/good it is, some a
 
 ####https://github.com/jpegleg/three_pki 🟦
 
-###https://github.com/jpegleg/bobcat-node 🟦
+####https://github.com/jpegleg/project-bobcat 🟦
 
 
 ## 🖧 templates
 
 #####https://github.com/jpegleg/morpho-web 🟦
+
+#####https://github.com/jpegleg/morpho-web-lt 🟦
 
 #####https://github.com/jpegleg/flying-squirrel-tactix 🟦
 
