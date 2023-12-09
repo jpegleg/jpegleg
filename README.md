@@ -52,6 +52,8 @@ The number of # in front of these links represents how useful/good it is, some a
 
 ####https://github.com/jpegleg/merflow 🟦
 
+###https://github.com/jpegleg/ocean-regulator 🟦
+
 ####https://github.com/jpegleg/debian-12-workstation 🟦
 
 #####https://github.com/jpegleg/salsa_falcon 🟪
