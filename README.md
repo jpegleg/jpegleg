@@ -42,6 +42,8 @@ The number of # in front of these links represents how useful/good it is, some a
 
 #####https://github.com/jpegleg/morpho-web-lt 🟦
 
+#####https://github.com/jpegleg/callsoup 🟦
+
 #####https://github.com/jpegleg/flying-squirrel-tactix 🟦
 
 ####https://github.com/jpegleg/squirrel-tactix 🟦
