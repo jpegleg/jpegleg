@@ -186,6 +186,8 @@ The number of # in front of these links represents how useful/good it is, some a
 
 ###https://github.com/jpegleg/dblade 🟪
 
+###https://github.com/jpegleg/riftiaxe 🟪
+
 #####https://github.com/jpegleg/volcanica-pki 🟦
 
 ####https://github.com/jpegleg/opal-dragon 🟪
