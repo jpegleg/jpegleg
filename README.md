@@ -76,6 +76,8 @@ The number of # in front of these links represents how useful/good it is, some a
 
 ###https://github.com/jpegleg/frontline-controller 🟪
 
+###https://github.com/jpegleg/dark-star-controller 🟪 
+
 ####https://github.com/jpegleg/borg-kube 🟦
 
 ####https://github.com/jpegleg/k3s-dragon-eggs 🟦
