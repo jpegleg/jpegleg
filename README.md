@@ -192,6 +192,8 @@ The number of # in front of these links represents how useful/good it is, some a
 
 ####https://github.com/jpegleg/dwarven-toolbox 🟪
 
+###https://github.com/jpegleg/rehino 🟪
+
 ###https://github.com/jpegleg/dblade 🟪
 
 ###https://github.com/jpegleg/riftiaxe 🟪
