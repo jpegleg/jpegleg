@@ -60,7 +60,7 @@ The number of # in front of these links represents how useful/good it is, some a
 
 ####https://github.com/jpegleg/merflow 🟦
 
-####https://github.com/jpegleg/rocky-bastard 🟦
+#####https://github.com/jpegleg/rocky-bastard 🟦
 
 ###https://github.com/jpegleg/abyss_data_cluster 🟦
 
@@ -195,6 +195,8 @@ The number of # in front of these links represents how useful/good it is, some a
 ####https://github.com/jpegleg/dwarven-toolbox 🟪
 
 ####https://github.com/jpegleg/rocky-bastard/tree/main/genpkcs12 🟦
+
+####https://github.com/jpegleg/rocky-bastard/tree/main/fms 🟦
 
 ###https://github.com/jpegleg/rehino 🟪
 
