@@ -68,11 +68,11 @@ The number of # in front of these links represents how useful/good it is, some a
 
 ####https://github.com/jpegleg/debian-12-workstation 🟦
 
-#####https://github.com/jpegleg/salsa_falcon 🟪
+####https://github.com/jpegleg/salsa_falcon 🟪
 
 #####https://github.com/jpegleg/whistle-pig 🟪
 
-####https://github.com/jpegleg/larksys/ 🟦
+####https://github.com/jpegleg/larksys 🟦
 
 ###https://github.com/jpegleg/yaml_dip 🟪
 
@@ -88,7 +88,7 @@ The number of # in front of these links represents how useful/good it is, some a
 
 ####https://github.com/jpegleg/storm-reef-clusters 🟦
 
-####https://github.com/jpegleg/1-vm-enterprise 🟦
+###https://github.com/jpegleg/1-vm-enterprise 🟦
 
 ###https://github.com/jpegleg/eaas-deployment-m 🟦
 
@@ -116,15 +116,15 @@ The number of # in front of these links represents how useful/good it is, some a
 
 ###https://github.com/jpegleg/debian_kernel_builder 🟦
 
-###https://github.com/jpegleg/open-gslb_template 🟦
+##https://github.com/jpegleg/open-gslb_template 🟦
 
 ##https://github.com/jpegleg/full-unit 🟦
 
-####https://github.com/jpegleg/nginx-le-deploy 🟦
+###https://github.com/jpegleg/nginx-le-deploy 🟦
 
 ###https://github.com/jpegleg/fe-html-template 🟦
 
-###https://github.com/jpegleg/jenkins_storm/ 🟦
+###https://github.com/jpegleg/jenkins_storm 🟦
 
 ####https://github.com/jpegleg/deb_hardener 🟦
 
@@ -228,11 +228,11 @@ The number of # in front of these links represents how useful/good it is, some a
 
 ####https://github.com/jpegleg/protean-gitops 🟦
 
-#####https://github.com/jpegleg/snake_bounce 🟪
+####https://github.com/jpegleg/snake_bounce 🟪
 
 ##https://github.com/jpegleg/ssh-key-hunter 🟪
 
-#####https://github.com/jpegleg/honeycat 🟦
+####https://github.com/jpegleg/honeycat 🟪
 
 ###https://github.com/jpegleg/honey-cycle 🟦
 
@@ -252,7 +252,7 @@ The number of # in front of these links represents how useful/good it is, some a
 
 ####https://github.com/jpegleg/readhist.pl 🟦
 
-#####https://github.com/jpegleg/crypt-baller 🟪
+###https://github.com/jpegleg/crypt-baller 🟪
 
 ##https://github.com/jpegleg/time-sort-tar 🟦
 
@@ -260,7 +260,7 @@ The number of # in front of these links represents how useful/good it is, some a
 
 ###https://github.com/jpegleg/hardening-module 🟦
 
-##https://github.com/jpegleg/recurse-catalog 🟦
+###https://github.com/jpegleg/recurse-catalog 🟦
 
 ###https://github.com/jpegleg/hist-event-reaction 🟦
 
