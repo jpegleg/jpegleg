@@ -42,7 +42,7 @@ The number of # in front of these links represents how useful/good it is, some a
 
 #####https://github.com/jpegleg/serotinous-cone 🟦
 
-#####https://github.com/jpegleg/firfather 🟦
+#####https://github.com/jpegleg/firfather 🟪
 
 ####https://github.com/jpegleg/ichorsurf 🟪
 
