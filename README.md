@@ -188,15 +188,15 @@ The number of # in front of these links represents how useful/good it is, some a
 
 ## 🏴‍☠️ tools
 
-####https://github.com/jpegleg/wormsign 🟦
+#####https://github.com/jpegleg/wormsign 🟦
 
 #####https://github.com/jpegleg/freebsd-arpsec 🟦
  
 ####https://github.com/jpegleg/net-gargoyle2 🟦
 
-####https://github.com/jpegleg/milk-thistle 🟦
+###https://github.com/jpegleg/milk-thistle 🟦
 
-####https://github.com/jpegleg/dwarven-toolbox 🟪
+#####https://github.com/jpegleg/dwarven-toolbox 🟪
 
 ####https://github.com/jpegleg/rocky-bastard/tree/main/genpkcs12 🟦
 
@@ -204,7 +204,7 @@ The number of # in front of these links represents how useful/good it is, some a
 
 ###https://github.com/jpegleg/rehino 🟪
 
-###https://github.com/jpegleg/file_encryption_AES256 🟪
+####https://github.com/jpegleg/file_encryption_AES256 🟪
 
 ###https://github.com/jpegleg/dblade 🟪
 
