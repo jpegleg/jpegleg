@@ -204,7 +204,7 @@ The number of # in front of these links represents how useful/good it is, some a
 
 ###https://github.com/jpegleg/rehino 🟪
 
-####https://github.com/jpegleg/file_encryption_AES256 🟪
+#####https://github.com/jpegleg/file_encryption_AES256 🟪
 
 ###https://github.com/jpegleg/dblade 🟪
 
@@ -252,9 +252,9 @@ The number of # in front of these links represents how useful/good it is, some a
 
 #https://github.com/jpegleg/draconian-one-way 🟪
 
-####https://github.com/jpegleg/magic-spell 🟪
+###https://github.com/jpegleg/magic-spell 🟪
 
-####https://github.com/jpegleg/readhist.pl 🟦
+###https://github.com/jpegleg/readhist.pl 🟦
 
 ###https://github.com/jpegleg/crypt-baller 🟪
 
