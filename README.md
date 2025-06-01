@@ -179,6 +179,8 @@ The number of # in front of these links represents how useful/good it is, some a
 
 ###https://github.com/jpegleg/kali-live-flow 🟪
 
+###https://github.com/jpegleg/openbsd-workstation 🟦
+
 ##https://github.com/jpegleg/debian-switch-scraps 🟦
 
 #https://github.com/jpegleg/cryptoCore 🟪
