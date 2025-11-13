@@ -153,6 +153,8 @@ The number of # in front of these links represents how useful/good it is, some a
 
 ####https://github.com/jpegleg/power-pathway 🟪
 
+###https://github.com/jpegleg/debian13-control-plane 🟦
+
 ####https://github.com/jpegleg/crypt-utility-installer 🟪
 
 ####https://github.com/jpegleg/shadow-renewal 🟪
