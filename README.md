@@ -39,6 +39,8 @@ The number of # in front of these links represents how useful/good it is, some a
 
 ## 🖧 templates
 
+#####https://github.com/jpegleg/sericea_shelterbelt 🟦
+
 #####https://github.com/jpegleg/morpho-web 🟦
 
 #####https://github.com/jpegleg/paludification_toad 🟦
