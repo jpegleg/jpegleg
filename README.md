@@ -39,23 +39,21 @@ The number of # in front of these links represents how useful/good it is, some a
 
 ## 🖧 templates
 
-#####https://github.com/jpegleg/kiamagpie 🟦
+####https://github.com/jpegleg/sericea_shelterbelt 🟦
 
-#####https://github.com/jpegleg/sericea_shelterbelt 🟦
-
-#####https://github.com/jpegleg/morpho-web 🟦
+####https://github.com/jpegleg/morpho-web 🟦
 
 #####https://github.com/jpegleg/paludification_toad 🟦
 
-#####https://github.com/jpegleg/serotinous-cone 🟦
+###https://github.com/jpegleg/serotinous-cone 🟦
 
-#####https://github.com/jpegleg/firfather 🟪
+###https://github.com/jpegleg/firfather 🟪
 
 ####https://github.com/jpegleg/ichorsurf 🟪
 
 ####https://github.com/jpegleg/pregate 🟦
 
-#####https://github.com/jpegleg/morpho-web-lt 🟦
+####https://github.com/jpegleg/morpho-web-lt 🟦
 
 #####https://github.com/jpegleg/callsoup 🟦
 
@@ -63,7 +61,7 @@ The number of # in front of these links represents how useful/good it is, some a
 
 ####https://github.com/jpegleg/squirrel-tactix 🟦
 
-####https://github.com/jpegleg/morpho-sessions 🟦
+##https://github.com/jpegleg/morpho-sessions 🟦
 
 ###https://github.com/jpegleg/morpho-web2 🟦
 
@@ -111,7 +109,7 @@ The number of # in front of these links represents how useful/good it is, some a
 
 ###https://github.com/jpegleg/gluster_cluster 🟦
 
-#####https://github.com/jpegleg/tls-haproxy-config 🟦
+####https://github.com/jpegleg/tls-haproxy-config 🟦
 
 ###https://github.com/jpegleg/deb-bast 🟦
  
@@ -204,6 +202,8 @@ The number of # in front of these links represents how useful/good it is, some a
 #####https://github.com/jpegleg/giant-spellbook 🟪
 
 #####https://github.com/jpegleg/kiabluejay 🟦
+
+#####https://github.com/jpegleg/kiamagpie 🟦
 
 ####https://github.com/jpegleg/spell_hunter 🟦
 
