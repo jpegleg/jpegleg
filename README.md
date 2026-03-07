@@ -203,6 +203,8 @@ The number of # in front of these links represents how useful/good it is, some a
 
 #####https://github.com/jpegleg/giant-spellbook 🟪
 
+#####https://github.com/jpegleg/kiabluejay 🟦
+
 ####https://github.com/jpegleg/spell_hunter 🟦
 
 #####https://github.com/jpegleg/wormsign 🟦
