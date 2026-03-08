@@ -119,15 +119,7 @@ The number of # in front of these links represents how useful/good it is, some a
 
 #####https://github.com/jpegleg/vernal_edgewarden  🟦
 
-####https://github.com/jpegleg/sericea_shelterbelt 🟦
-
-####https://github.com/jpegleg/morpho-web 🟦
-
 #####https://github.com/jpegleg/paludification_toad 🟦
-
-###https://github.com/jpegleg/serotinous-cone 🟦
-
-###https://github.com/jpegleg/firfather 🟪
 
 ####https://github.com/jpegleg/ichorsurf 🟪
 
@@ -140,10 +132,6 @@ The number of # in front of these links represents how useful/good it is, some a
 #####https://github.com/jpegleg/flying-squirrel-tactix 🟦
 
 ####https://github.com/jpegleg/squirrel-tactix 🟦
-
-##https://github.com/jpegleg/morpho-sessions 🟦
-
-###https://github.com/jpegleg/morpho-web2 🟦
 
 ####https://github.com/jpegleg/merflow 🟦
 
@@ -265,7 +253,19 @@ The number of # in front of these links represents how useful/good it is, some a
 
 ####https://github.com/jpegleg/power-pathway 🟪
 
+###https://github.com/jpegleg/serotinous-cone 🟦
+
+###https://github.com/jpegleg/firfather 🟪
+
 ###https://github.com/jpegleg/debian13-control-plane 🟦
+
+####https://github.com/jpegleg/sericea_shelterbelt 🟦
+
+####https://github.com/jpegleg/morpho-web 🟦
+
+##https://github.com/jpegleg/morpho-sessions 🟦
+
+##https://github.com/jpegleg/morpho-web2 🟦
 
 ####https://github.com/jpegleg/crypt-utility-installer 🟪
 
