@@ -8,7 +8,7 @@ The number of # in front of these links represents how useful/good it is, some a
 
 
 
-## 🏴‍☠️ tools
+## 🏴‍☠️ tools and apps
 
 #####https://github.com/jpegleg/giant-spellbook 🟪
 
@@ -304,8 +304,6 @@ The number of # in front of these links represents how useful/good it is, some a
 ####https://github.com/jpegleg/debian-13-workstation 🟦
 
 ###https://github.com/jpegleg/debian-12-workstation 🟦
-
-
 
 #https://github.com/jpegleg/wheezy-workstation-module 🟦
 
