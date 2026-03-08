@@ -8,36 +8,116 @@ The number of # in front of these links represents how useful/good it is, some a
 
 
 
-## 🦂 prototypes  
+## 🏴‍☠️ tools
 
-####https://github.com/jpegleg/heaven-pki 🟦
+#####https://github.com/jpegleg/giant-spellbook 🟪
 
-#####https://github.com/jpegleg/badger-chainz 🟪
+#####https://github.com/jpegleg/kiabluejay 🟦
 
-####https://github.com/jpegleg/badger-chainz-ssh 🟪
+#####https://github.com/jpegleg/kiamagpie 🟦
 
-####https://github.com/jpegleg/bash-jwt 🟦
+####https://github.com/jpegleg/spell_hunter 🟦
 
-###https://github.com/jpegleg/flying-m 🟦
+#####https://github.com/jpegleg/wormsign 🟦
 
-####https://github.com/jpegleg/cartoon_captain 🟦
+#####https://github.com/jpegleg/enchantress 🟪
 
-#https://github.com/jpegleg/pattern-learner 🟦
+#####https://github.com/jpegleg/enchanter 🟪
 
-###https://github.com/jpegleg/change-watcher 🟦
+####https://github.com/jpegleg/kiaproxy 🟦
 
-#https://github.com/jpegleg/five-daemon-mgmt 🟪
+####https://github.com/jpegleg/kiagateway 🟦 
 
-####https://github.com/jpegleg/signer-daemon 🟦
+#####https://github.com/jpegleg/exception_logger 🟦 
 
-#####https://github.com/jpegleg/osprey_validator 🟦
+#####https://github.com/jpegleg/freebsd-arpsec 🟦
+ 
+####https://github.com/jpegleg/net-gargoyle2 🟦
 
-####https://github.com/jpegleg/three_pki 🟦
+###https://github.com/jpegleg/milk-thistle 🟦
 
-####https://github.com/jpegleg/project-bobcat 🟦
+#####https://github.com/jpegleg/dwarven-toolbox 🟪
+
+####https://github.com/jpegleg/rocky-bastard/tree/main/genpkcs12 🟦
+
+####https://github.com/jpegleg/rocky-bastard/tree/main/fms 🟦
+
+###https://github.com/jpegleg/rehino 🟪
+
+#####https://github.com/jpegleg/file_encryption_AES256 🟪
+
+###https://github.com/jpegleg/dblade 🟪
+
+###https://github.com/jpegleg/riftiaxe 🟪
+
+#####https://github.com/jpegleg/volcanica-pki 🟦
+
+####https://github.com/jpegleg/opal-dragon 🟪
+
+###https://github.com/jpegleg/nephronix 🟪
+
+#####https://github.com/jpegleg/harmonia 🟥
+
+####https://github.com/jpegleg/woodchucker 🟥
+
+###https://github.com/jpegleg/japwnica  🟥
+
+###https://github.com/jpegleg/archaeopteryx 🟦
+
+####https://github.com/jpegleg/jpegleg-lib 🟪
+
+####https://github.com/jpegleg/iterblock2 🟥
+
+####https://github.com/jpegleg/wazuh-console-tools 🟦
+
+####https://github.com/jpegleg/protean-gitops 🟦
+
+####https://github.com/jpegleg/snake_bounce 🟪
+
+##https://github.com/jpegleg/ssh-key-hunter 🟪
+
+####https://github.com/jpegleg/honeycat 🟪
+
+###https://github.com/jpegleg/honey-cycle 🟦
+
+##https://github.com/jpegleg/h2b2 🟦
+
+###https://github.com/jpegleg/expiry-hunter 🟦
+
+###https://github.com/jpegleg/archive-spider 🟪
+
+#####https://github.com/jpegleg/dns_upload 🟥
+
+##https://github.com/jpegleg/netstew 🟪
+
+#https://github.com/jpegleg/draconian-one-way 🟪
+
+###https://github.com/jpegleg/magic-spell 🟪
+
+###https://github.com/jpegleg/readhist.pl 🟦
+
+###https://github.com/jpegleg/crypt-baller 🟪
+
+##https://github.com/jpegleg/time-sort-tar 🟦
+
+###https://github.com/jpegleg/firewalld-autoban 🟦
+
+###https://github.com/jpegleg/hardening-module 🟦
+
+###https://github.com/jpegleg/recurse-catalog 🟦
+
+###https://github.com/jpegleg/hist-event-reaction 🟦
+
+#https://github.com/jpegleg/revsec 🟦
+
+#https://github.com/jpegleg/rolling-saturn 🟦
+
+##https://github.com/jpegleg/timestamped-history-module 🟦
 
 
 ## 🖧 templates
+
+#####https://github.com/jpegleg/vernal_edgewarden  🟦
 
 ####https://github.com/jpegleg/sericea_shelterbelt 🟦
 
@@ -148,6 +228,35 @@ The number of # in front of these links represents how useful/good it is, some a
 ###https://github.com/jpegleg/hydrake 🟦
 
 
+## 🦂 prototypes  
+
+####https://github.com/jpegleg/heaven-pki 🟦
+
+#####https://github.com/jpegleg/badger-chainz 🟪
+
+####https://github.com/jpegleg/badger-chainz-ssh 🟪
+
+####https://github.com/jpegleg/bash-jwt 🟦
+
+###https://github.com/jpegleg/flying-m 🟦
+
+####https://github.com/jpegleg/cartoon_captain 🟦
+
+#https://github.com/jpegleg/pattern-learner 🟦
+
+###https://github.com/jpegleg/change-watcher 🟦
+
+#https://github.com/jpegleg/five-daemon-mgmt 🟪
+
+####https://github.com/jpegleg/signer-daemon 🟦
+
+#####https://github.com/jpegleg/osprey_validator 🟦
+
+####https://github.com/jpegleg/three_pki 🟦
+
+####https://github.com/jpegleg/project-bobcat 🟦
+
+
 ## ☯️ notes and scraps
 
 #####https://github.com/jpegleg/metarc 🟪
@@ -197,111 +306,6 @@ The number of # in front of these links represents how useful/good it is, some a
 ###https://github.com/jpegleg/debian-12-workstation 🟦
 
 
-## 🏴‍☠️ tools
-
-#####https://github.com/jpegleg/giant-spellbook 🟪
-
-#####https://github.com/jpegleg/kiabluejay 🟦
-
-#####https://github.com/jpegleg/kiamagpie 🟦
-
-####https://github.com/jpegleg/spell_hunter 🟦
-
-#####https://github.com/jpegleg/wormsign 🟦
-
-#####https://github.com/jpegleg/enchantress 🟪
-
-#####https://github.com/jpegleg/enchanter 🟪
-
-####https://github.com/jpegleg/kiaproxy 🟦
-
-####https://github.com/jpegleg/kiagateway 🟦 
-
-#####https://github.com/jpegleg/exception_logger 🟦 
-
-#####https://github.com/jpegleg/freebsd-arpsec 🟦
- 
-####https://github.com/jpegleg/net-gargoyle2 🟦
-
-###https://github.com/jpegleg/milk-thistle 🟦
-
-#####https://github.com/jpegleg/dwarven-toolbox 🟪
-
-####https://github.com/jpegleg/rocky-bastard/tree/main/genpkcs12 🟦
-
-####https://github.com/jpegleg/rocky-bastard/tree/main/fms 🟦
-
-###https://github.com/jpegleg/rehino 🟪
-
-#####https://github.com/jpegleg/file_encryption_AES256 🟪
-
-###https://github.com/jpegleg/dblade 🟪
-
-###https://github.com/jpegleg/riftiaxe 🟪
-
-#####https://github.com/jpegleg/volcanica-pki 🟦
-
-####https://github.com/jpegleg/opal-dragon 🟪
-
-###https://github.com/jpegleg/nephronix 🟪
-
-#####https://github.com/jpegleg/harmonia 🟥
-
-####https://github.com/jpegleg/woodchucker 🟥
-
-###https://github.com/jpegleg/japwnica  🟥
-
-###https://github.com/jpegleg/archaeopteryx 🟦
-
-####https://github.com/jpegleg/jpegleg-lib 🟪
-
-####https://github.com/jpegleg/iterblock2 🟥
-
-####https://github.com/jpegleg/wazuh-console-tools 🟦
-
-####https://github.com/jpegleg/protean-gitops 🟦
-
-####https://github.com/jpegleg/snake_bounce 🟪
-
-##https://github.com/jpegleg/ssh-key-hunter 🟪
-
-####https://github.com/jpegleg/honeycat 🟪
-
-###https://github.com/jpegleg/honey-cycle 🟦
-
-##https://github.com/jpegleg/h2b2 🟦
-
-###https://github.com/jpegleg/expiry-hunter 🟦
-
-###https://github.com/jpegleg/archive-spider 🟪
-
-#####https://github.com/jpegleg/dns_upload 🟥
-
-##https://github.com/jpegleg/netstew 🟪
-
-#https://github.com/jpegleg/draconian-one-way 🟪
-
-###https://github.com/jpegleg/magic-spell 🟪
-
-###https://github.com/jpegleg/readhist.pl 🟦
-
-###https://github.com/jpegleg/crypt-baller 🟪
-
-##https://github.com/jpegleg/time-sort-tar 🟦
-
-###https://github.com/jpegleg/firewalld-autoban 🟦
-
-###https://github.com/jpegleg/hardening-module 🟦
-
-###https://github.com/jpegleg/recurse-catalog 🟦
-
-###https://github.com/jpegleg/hist-event-reaction 🟦
-
-#https://github.com/jpegleg/revsec 🟦
-
-#https://github.com/jpegleg/rolling-saturn 🟦
-
-##https://github.com/jpegleg/timestamped-history-module 🟦
 
 #https://github.com/jpegleg/wheezy-workstation-module 🟦
 
