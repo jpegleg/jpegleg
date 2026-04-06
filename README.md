@@ -121,8 +121,6 @@ The number of # in front of these links represents how useful/good it is, some a
 
 #####https://github.com/jpegleg/paludification_toad 🟦
 
-####https://github.com/jpegleg/deep_forest_data_manager 🟦
-
 ####https://github.com/jpegleg/ichorsurf 🟪
 
 ####https://github.com/jpegleg/pregate 🟦
