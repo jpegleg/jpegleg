@@ -18,6 +18,8 @@ The number of # in front of these links represents how useful/good it is, some a
 
 ####https://github.com/jpegleg/spell_hunter 🟦
 
+####https://github.com/jpegleg/llm_hunter 🟪
+
 #####https://github.com/jpegleg/wormsign 🟦
 
 #####https://github.com/jpegleg/enchantress 🟪
